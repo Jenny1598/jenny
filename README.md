@@ -1,2 +1,2 @@
 # jenny
-My personal repositpry
+My personal repository
